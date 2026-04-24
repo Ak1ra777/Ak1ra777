@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Davit 👋
 
-<!--
-**Ak1ra777/Ak1ra777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Kutaisi International University focused on AI engineering, voice agents, RAG systems, and applied AI products.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Georgian Voice AI Operator — real-time voice AI operator with SIP/RTP telephony, STT, LLM dialog control, TTS, DTMF, account lookup, and structured handoff.
+- Research PDF RAG Assistant — RAG app for querying research PDFs using FastAPI, Streamlit, Chroma, Hugging Face embeddings, and an open-source LLM.
+- Face Verification Check-in — webcam-based face verification system using MediaPipe, ArcFace ONNX embeddings, cosine matching, and PostgreSQL-backed enrollment.
+
+## Tech Stack
+
+Python, FastAPI, Streamlit, LangChain, Chroma, Hugging Face, OpenAI API, PostgreSQL, Docker, Linux, Git, REST APIs, RAG systems, LLM-powered applications, and voice AI pipelines.
